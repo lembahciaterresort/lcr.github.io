@@ -5,7 +5,7 @@ import Landscape from './Landscape'
 const Main = () => {
       return (
             <div>
-                  <div className='h-[10000px] sticky'>
+                  <div className='h-[10000px]'>
                         <div className='container flex justify-center my-10'>
                               <h1 className='text-5xl'>Room Type</h1>
                         </div>
