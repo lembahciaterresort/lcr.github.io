@@ -3,6 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 /* CSS */
 @font-face
 
@@ -10,7 +11,7 @@
       {
       font-family: 'ActivGrotesk';
       /*memberikan nama bebas untuk font*/
-      src: url('./font/AktivGrotesk-Regular.otf');
+      src: url('./font/AktivGrotesk-Thin.otf');
       /*memanggil file font eksternalnya di folder nexa*/
 }
 
