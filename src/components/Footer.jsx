@@ -32,7 +32,7 @@ const Footer = () => {
 
                   </div>
                   <div className='flex flex-col items-center w-full mt-5 space-y-2'>
-                        <p>Jalan Raya Ciater No. 19 Subang, Jawa Barat</p>
+                        <p>Jl. Raya Ciater No. 19 Subang, Jawa Barat</p>
                         <p>Copyright 2023 | Made with Love</p>
                   </div>
 
